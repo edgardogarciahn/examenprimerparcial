@@ -1,0 +1,161 @@
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #545454;
+}
+header{
+	padding: 35px 0;
+}
+
+#sec-hero{
+	background-image: url(../img/title_bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 100px 0;
+	color: #fff;
+	text-align: center;
+}
+#sec-hero h2{
+	margin-top: 50px;
+	font-size: 24px;
+	font-weight: 300;
+}
+#sec-hero h1{
+	font-size: 80px;
+	font-weight: 300;
+	letter-spacing: 4px;
+	margin-top: 10px;
+	margin-bottom: 40px;
+}
+#sec-hero p{
+	font-size: 20px;
+	font-weight: 300;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+.btn-gold{
+	padding: 8px 40px;
+	border-radius: 35px;
+	color: #B79E6E;
+	font-size: 20px;
+	text-transform: uppercase;
+	background-color: transparent;
+	border: 1px solid #B79E6E;
+}
+.btn-gold:hover{
+	background-color: #000;
+	border: 1px solid #B79E6E;
+	color: #B79E6E;
+}
+footer{
+	background-color: #262626;
+	color: #7A7A7A;
+	padding: 20px 0;
+	text-align: center;
+}
+#sec-modern{
+	background-image: url(../img/post_bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 100px 0 160px;
+}
+#sec-modern h2{
+	font-size: 35px;
+	font-weight: 300;
+	color: #000;
+}
+#sec-modern h1{
+	font-size: 80px;
+	font-weight: 300;
+	letter-spacing: 4px;
+	color: burlywood;
+}
+#sec-modern h4{
+	margin-top: 50px;
+	font-size: 15px;
+	font-weight: 300;
+	color: #000;
+	margin-bottom: 80px;
+}
+#sec-counter{
+	background-image: url(../img/blackwood_bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 100px 0 30px;
+	text-align: center;
+}
+#sec-counter h2{
+	font-size: 40px;
+	font-weight: 300;
+	color: #FFFFFF;
+	margin-top: 30px;
+}
+#sec-counter h3{
+	font-size: 15px;
+	font-weight: 300;
+	color: burlywood;
+	margin-top: 15px;
+}
+#sec-recipes{
+	background-image: url(../img/post_bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 230px 0 230px;
+	text-align: left;
+}
+#sec-recipes h2{
+	font-size: 35px;
+	font-weight: 300;
+	color: #000;
+}
+#sec-recipes h1{
+	font-size: 80px;
+	font-weight: 300;
+	letter-spacing: 4px;
+	color: burlywood;
+}
+#sec-recipes h3{
+	font-size: 15px;
+	font-weight: 300;
+	color: #000000;
+	margin-top: 50px;
+	margin-bottom: 90px;
+}
+#sec-restaurant{
+	background-image: url(../img/blackwood_bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 100px 0 100px;
+	text-align: center;
+}
+#sec-restaurant h3{
+	font-size: 20px;
+	font-weight: 300;
+	color: burlywood;
+	margin-top: 15px;
+}
+#sec-restaurant h2{
+	margin-top: 5px;
+	font-size: 30px;
+	font-weight: 300;
+	color: #FFFFFF;
+	margin-bottom: 35px;
+}
+#sec-restaurant h4{
+	font-size: 20px;
+	font-weight: 300;
+	color: #FFFFFF;
+	margin-top: 100px;
+}
+#sec-restaurant h5{
+	font-size: 15px;
+	font-weight: 300;
+	color: #FFFFFF;
+	margin-top: 15px;
+	margin-bottom: 100px;
+}
